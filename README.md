@@ -13,10 +13,10 @@
 ### 🚀 Men haqimda qisqacha
 Men dasturlash orqali murakkab muammolarga sodda yechimlar topishni yaxshi ko'raman. Har bir loyihamda kod sifati va foydalanuvchi tajribasiga (UX) alohida e'tibor qarataman.
 
-* 🔭 **Hozirda bandman:** `[blimlarimni yanada oshirish]` ustida ishlayapman.
-* 🌱 **O'rganyapman:** `[Ai enginering va o`z bilimlarimni mustahkamlash]`.
+* 🔭 **Hozirda bandman:** blimlarimni yanada oshirish ustida ishlayapman.
+* 🌱 **O'rganyapman:** Ai enginering va o`z bilimlarimni mustahkamlash.
 * 🎯 **Maqsadim:** Yuqori yuklamali tizimlar (High-load systems) yaratishda tajriba orttirish va tezroq senior dasturchi b`olish.
-* ⚡ **Men:** `[Real loyihalarda jamoaviy ishlaganman ]`.
+* ⚡ **Tajriba:** Real loyihalarda jamoaviy ishlaganman .
 
 ---
 
