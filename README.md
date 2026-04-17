@@ -5,7 +5,7 @@
 </div>
 
 ### 👨‍💻 Men haqimda
-- 🎓 **Software Engineering** yo'nalishi talabasi.
+- 🎓 **Backend developer** .
 - 🏆 **"Pro Dasturlash 2025"** kursi bitiruvchiman (Mentor: Komiljon Hamidjonov).
 - 🚀 **Backend arxitektura**, **REST API** va **Sun'iy Intellekt** integratsiyasi bo'yicha mutaxassisman.
 - 🌍 Ingliz tili: **Elementary (A2)** - Texnik hujjatlar bilan ishlay olaman.
@@ -57,9 +57,9 @@
 ---
 
 ### 📫 Men bilan bog'lanish:
-- **Telegram:** [@Sizning_User]
-- **LinkedIn:** [Jahongir Tolqinov](https://www.linkedin.com/in/Sizning_LinkedIn)
-- **Email:** [Sizning_Emailingiz]
+- **Telegram:** [@Jahongir2011116]
+- **LinkedIn:** [)
+- **Email:** [tojahongir18@gmail.com]
 
 ---
 <div align="center">
