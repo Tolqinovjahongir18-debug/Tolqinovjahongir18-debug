@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jahongir Tolqinov!
+# 👋 Hi, I'm Jakhongir Tolqinov!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=3776AB&height=200&section=header&text=Full-Stack%20Python%20Developer&fontSize=60" />
@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Software Engineering Student** & Backend Developer.
-- 🏆 Mentored by **Komiljon KXamidjonov** at the **"Pro Dasturlash 2025"** intensive program.
+- 🏆 Mentored by **Komiljon Xamidjonov** at the **"Pro Dasturlash 2025"** intensive program.
 - 🚀 Specialized in **Scalable Backend Architectures**, **Complex AI Integrations**, and **SaaS Solutions**.
 - 🌍 Language: **English (Elementary/A2)** — Capable of technical documentation and professional terminology.
 
