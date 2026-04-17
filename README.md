@@ -62,7 +62,7 @@
 ---
 
 ### 📫 Let's Connect:
-- **Telegram:** [@Sizning_User]
+- **Telegram:** [@Jahongir2011116]
 - **LinkedIn:** [Jahongir Tolqinov]()
 - **Portfolio:** [now its not working!]
 
