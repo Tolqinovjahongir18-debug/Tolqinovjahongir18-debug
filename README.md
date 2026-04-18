@@ -63,7 +63,7 @@
 
 ### 📫 Let's Connect:
 - **Telegram:** [@Jahongir2011116]
-- **LinkedIn:** [Jahongir Tolqinov]()
+- **LinkedIn:** [[Jahongir Tolqinov](https://www.linkedin.com/in/jahongir-to-lqinov-b05a35386/)]()
 - **Portfolio:** (https://docs.google.com/document/d/165YEb7pW6X7Rx3eo-FhQQzBlLPHzjDb10Ba1eEIRb_E/edit?usp=sharing)
 
 ---
