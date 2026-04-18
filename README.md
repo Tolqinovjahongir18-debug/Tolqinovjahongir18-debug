@@ -27,7 +27,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🌟 1. [Cortex AI - Ultimate Problem Solver](https://github.com/Tolqinovjahongir18-debug/Cortex_AI_1)
+#### 🌟 1. [Cortex AI - Ultimate Problem Solver](https://github.com/Tolqinovjahongir18-debug/Cortex_AI_1),(privaty)
 > **AI-Powered Web Platform for Intelligent Solutions**
 - **Core:** A web-based SaaS platform that utilizes multiple AI models to help users find answers to complex technical and logical problems.
 - **Tech Stack:** Django, PostgreSQL, OpenAI/Gemini SDKs, Docker, Tailwind CSS.
