@@ -36,7 +36,7 @@
     - Dashboard for managing AI interactions and history.
 - **Goal:** Providing a seamless UI/UX for developers and students to solve coding and logic challenges.
 
-#### 🤖 2. [GPT_chat_bot.uz](https://github.com/Tolqinovjahongir18-debug/GPT_chat_bot.uz)
+#### 🤖 2. [GPT_chat_bot.uz](https://github.com/Tolqinovjahongir18-debug/GPT_chat_bot.uz)(public)
 > **Asynchronous AI Telegram Ecosystem**
 - **Tech:** Python, Aiogram 3.x, Redis, OpenAI API.
 - **Functionality:** Implements advanced subscription-based access control and high-concurrency chat handling.
