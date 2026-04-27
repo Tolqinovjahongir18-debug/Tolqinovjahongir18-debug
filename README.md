@@ -42,7 +42,7 @@
 - **Functionality:** Implements advanced subscription-based access control and high-concurrency chat handling.
 - **Architecture:** Fully asynchronous design to handle thousands of requests simultaneously.
 
-#### 💼 3. [HR Management Project](https://github.com/Tolqinovjahongir18-debug/HR_project)
+#### 💼 3. [HR Management Project](https://github.com/Tolqinovjahongir18-debug/HR_project)(privaty)
 > **Enterprise Resource Planning (ERP) Backend**
 - **Tech:** Django REST Framework, Swagger, PostgreSQL.
 - **Logic:** Secure email authentication, permission-based roles, and automated API documentation for HR workflows.
