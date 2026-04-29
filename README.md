@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jakhongir Tolqinov!
+# 👋 Hi, I'm Jahongir Tolqinov!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=3776AB&height=200&section=header&text=Full-Stack%20Python%20Developer&fontSize=60" />
